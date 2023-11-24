@@ -2,11 +2,10 @@
 
 A minimal reproduction of a ts-eslint-error.
 
-Node-modules are included, so no need to run installation.
-
 Seeing the error:
 
 ```sh
+npm install
 npx ts-standard
 ```
 
