@@ -4,7 +4,7 @@ A minimal reproduction of a ts-eslint-error.
 
 ## Super-Linter
 
-[![Lint Code Base](https://github.com/dominicmeyer/ts-eslint-error/actions/workflows/super-linter.yml/badge.svg)](https://github.com/dominicmeyer/ts-eslint-error/actions/workflows/super-linter.yml)
+[![Lint Code Base](https://github.com/dominicmeyer/ts-eslint-error/actions/workflows/super-linter.yml/badge.svg?branch=local-and-action)](https://github.com/dominicmeyer/ts-eslint-error/actions/workflows/super-linter.yml)
 
 ## Local
 
