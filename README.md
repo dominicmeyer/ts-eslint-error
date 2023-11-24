@@ -11,7 +11,7 @@ npx ts-standard
 
 Output:
 
-```
+```text
 ts-standard: Standard for TypeScript! (https://github.com/standard/ts-standard)
   /Users/meyerdom/Projekte/Privat/TsStandardError/test.ts:0:0: Parsing error: ESLint was configured to run on `<tsconfigRootDir>/test.ts` using `parserOptions.project`: /users/meyerdom/projekte/privat/tsstandarderror/tsconfig.json
 However, that TSConfig does not include this file. Either:
